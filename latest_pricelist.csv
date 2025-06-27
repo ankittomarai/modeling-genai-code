@@ -1,0 +1,595 @@
+Customer_Name,Product_Level_1,Product_Level_2,Application,Plant,Predicted_Margin_Per_Unit
+Wind Energy Components,Chemicals,Urea,Aerospace,Central Asia Plant,452.33
+Chemical Industries Ltd,Metals,Scrap Metal,Agriculture,South America Facility,273.65
+Precious Metals Exchange,Plastics,Polystyrene,Mining,Western Europe Plant,237.54
+Cosmetic Ingredients,Minerals,Gypsum,Packaging,Southeast Asia Hub,166.28
+Nickel Alloys Corp,Plastics,Polycarbonate,Mining,Africa Operations,236.92
+Battery Materials Corp,Electronics,Gallium,Agriculture,Central America Hub,482.76
+Nickel Alloys Corp,Minerals,Kaolin,Food & Beverage,North America Plant,165.87
+Textile Raw Materials,Plastics,PVC,Infrastructure,South America Facility,237.91
+Energy Dynamics,Metals,Titanium,Aerospace,Oceania Facility,274.19
+Copper Traders International,Metals,Nickel,Renewable Energy,North America Plant,273.83
+Copper Traders International,Energy,Diesel,Oil & Gas,North Asia Operations,58.44
+Construction Materials Co,Agriculture,Coffee,Renewable Energy,South Asia Plant,109.61
+Rare Earth Elements Co,Chemicals,Ethylene,Healthcare,Southeast Asia Hub,444.49
+Rare Earth Elements Co,Agriculture,Corn,Cosmetics,Asia Pacific Hub,111.58
+Automotive Materials,Agriculture,Palm Oil,Packaging,South America Facility,111.8
+Aerospace Alloys Corp,Energy,LNG,Mining,Eastern Europe Facility,58.16
+Glass Manufacturing Co,Chemicals,Ammonia,Mining,Oceania Facility,447.08
+Coal Mining Corp,Metals,Steel,Cosmetics,Eastern Europe Facility,271.38
+Mining Operations LLC,Minerals,Gypsum,Renewable Energy,Europe Manufacturing,166.47
+Wind Energy Components,Plastics,Polycarbonate,Automotive,South Asia Plant,233.71
+Nickel Alloys Corp,Electronics,Graphite,Telecommunications,Central Asia Plant,484.28
+Industrial Supply Ltd,Energy,Crude Oil,Renewable Energy,Asia Pacific Hub,57.14
+Ceramic Materials Ltd,Agriculture,Corn,Healthcare,Caribbean Plant,109.35
+Aerospace Alloys Corp,Energy,Petroleum Products,Telecommunications,Western Europe Plant,58.05
+Wood Products International,Textiles,Linen,Energy,Africa Operations,28.63
+Chemical Industries Ltd,Plastics,Polycarbonate,Oil & Gas,North America Plant,241.47
+Global Commodities Inc,Minerals,Gypsum,Automotive,Central Asia Plant,164.49
+Cosmetic Ingredients,Energy,LNG,Electronics,South America Facility,55.94
+Agricultural Commodities,Agriculture,Cocoa,Renewable Energy,Central America Hub,110.02
+Paper and Pulp Industries,Textiles,Rayon,Energy,Central Asia Plant,29.17
+Cosmetic Ingredients,Energy,Gasoline,Renewable Energy,Africa Operations,56.73
+Aluminum Corp,Energy,Gasoline,Telecommunications,Central America Hub,57.57
+Industrial Supply Ltd,Chemicals,Sulfuric Acid,Food & Beverage,Africa Operations,449.14
+Wood Products International,Energy,Natural Gas,Automotive,Southeast Asia Hub,55.23
+Copper Traders International,Agriculture,Palm Oil,Chemicals,Caribbean Plant,109.41
+Paper and Pulp Industries,Energy,LNG,Telecommunications,North Asia Operations,57.22
+Titanium Specialists,Chemicals,Methanol,Cosmetics,Western Europe Plant,456.51
+Ceramic Materials Ltd,Agriculture,Wheat,Agriculture,Eastern Europe Facility,113.79
+Glass Manufacturing Co,Minerals,Talc,Aerospace,Europe Manufacturing,167.49
+Global Commodities Inc,Textiles,Polyester,Telecommunications,Southeast Asia Hub,27.18
+Cosmetic Ingredients,Energy,Crude Oil,Textiles,Europe Manufacturing,57.26
+Petroleum Products Ltd,Textiles,Silk,Automotive,Southeast Asia Hub,27.87
+Coal Mining Corp,Plastics,PVC,Energy,Europe Manufacturing,241.52
+Wind Energy Components,Minerals,Barite,Electronics,Asia Pacific Hub,169.15
+Rare Earth Elements Co,Chemicals,Ammonia,Telecommunications,Central Asia Plant,434.38
+Metro Trading Co,Textiles,Polyester,Aerospace,Caribbean Plant,25.28
+Chemical Industries Ltd,Agriculture,Sugar,Manufacturing,Europe Manufacturing,112.02
+Aluminum Corp,Plastics,PET,Chemicals,North America Plant,236.58
+Battery Materials Corp,Plastics,Polystyrene,Renewable Energy,Southeast Asia Hub,233.54
+Solar Panel Materials,Metals,Titanium,Energy,South America Facility,272.42
+Titanium Specialists,Energy,Gasoline,Chemicals,Africa Operations,54.53
+Petroleum Products Ltd,Plastics,Nylon,Renewable Energy,Central America Hub,239.5
+Aluminum Corp,Agriculture,Rice,Chemicals,Central Asia Plant,109.84
+Battery Materials Corp,Metals,Tin,Food & Beverage,Oceania Facility,270.05
+Ceramic Materials Ltd,Chemicals,Urea,Food & Beverage,South Asia Plant,452.51
+Agricultural Commodities,Electronics,Germanium,Mining,North America Plant,484.13
+Rubber and Tire Materials,Energy,LNG,Renewable Energy,Eastern Europe Facility,57.99
+Energy Dynamics,Agriculture,Corn,Energy,North America Plant,112.19
+Medical Grade Metals,Chemicals,PVC,Cosmetics,Eastern Europe Facility,458.77
+Textile Raw Materials,Energy,Natural Gas,Aerospace,Central America Hub,58.5
+Aluminum Corp,Plastics,Polycarbonate,Automotive,Africa Operations,236.02
+Nickel Alloys Corp,Agriculture,Cotton,Pharmaceuticals,North Asia Operations,112.22
+Titanium Specialists,Textiles,Nylon,Chemicals,Southeast Asia Hub,26.48
+Aluminum Corp,Minerals,Kaolin,Food & Beverage,North America Plant,166.37
+Global Commodities Inc,Agriculture,Coffee,Chemicals,Western Europe Plant,109.93
+Battery Materials Corp,Metals,Steel,Cosmetics,Southeast Asia Hub,270.14
+Global Commodities Inc,Plastics,PVC,Healthcare,Middle East Plant,241.62
+Textile Raw Materials,Plastics,Nylon,Energy,South America Facility,240.6
+Copper Traders International,Minerals,Limestone,Textiles,Central Asia Plant,165.12
+Petroleum Products Ltd,Textiles,Acrylic,Mining,Southeast Asia Hub,28.09
+Battery Materials Corp,Agriculture,Soybeans,Energy,Middle East Plant,110.89
+Plastic Polymers Co,Minerals,Limestone,Energy,Oceania Facility,165.96
+Precious Metals Exchange,Minerals,Talc,Infrastructure,Africa Operations,164.73
+Natural Gas Traders,Chemicals,Methanol,Telecommunications,Eastern Europe Facility,460.18
+Copper Traders International,Minerals,Silica,Textiles,North Asia Operations,166.5
+Global Commodities Inc,Agriculture,Palm Oil,Packaging,Caribbean Plant,110.27
+Automotive Materials,Chemicals,PVC,Energy,Central Asia Plant,438.16
+Rubber and Tire Materials,Minerals,Kaolin,Textiles,Central America Hub,166.95
+Iron Ore Suppliers,Agriculture,Wheat,Construction,Central Asia Plant,107.81
+Coal Mining Corp,Chemicals,Caustic Soda,Food & Beverage,South America Facility,449.1
+Rare Earth Elements Co,Agriculture,Rice,Packaging,South America Facility,111.09
+Titanium Specialists,Energy,Biofuels,Defense,Central America Hub,56.39
+Wind Energy Components,Textiles,Polyester,Defense,Europe Manufacturing,30.06
+Pharmaceutical Raw Materials,Chemicals,Propylene,Renewable Energy,Central America Hub,438.43
+Global Commodities Inc,Plastics,Polycarbonate,Manufacturing,Africa Operations,235.27
+Natural Gas Traders,Agriculture,Soybeans,Healthcare,Asia Pacific Hub,114.3
+AgriTech Solutions,Minerals,Barite,Telecommunications,South Asia Plant,166.22
+Agricultural Commodities,Electronics,Indium,Mining,South America Facility,481.37
+Rare Earth Elements Co,Chemicals,Ethylene,Food & Beverage,Southeast Asia Hub,445.01
+Precious Metals Exchange,Textiles,Rayon,Mining,Caribbean Plant,27.39
+Plastic Polymers Co,Agriculture,Sugar,Packaging,Eastern Europe Facility,113.56
+Chemical Industries Ltd,Plastics,PET,Food & Beverage,North America Plant,239.37
+Copper Traders International,Textiles,Silk,Chemicals,Asia Pacific Hub,28.63
+AgriTech Solutions,Textiles,Rayon,Renewable Energy,Middle East Plant,29.25
+Wood Products International,Energy,Gasoline,Food & Beverage,Middle East Plant,58.24
+Wood Products International,Energy,Coal,Cosmetics,North America Plant,57.11
+Aerospace Alloys Corp,Plastics,Polycarbonate,Mining,Oceania Facility,238.75
+Zinc and Lead Traders,Textiles,Nylon,Electronics,South America Facility,29.27
+Paper and Pulp Industries,Textiles,Wool,Healthcare,Central America Hub,30.33
+Precious Metals Exchange,Agriculture,Corn,Infrastructure,Southeast Asia Hub,109.75
+Ceramic Materials Ltd,Chemicals,Caustic Soda,Automotive,Central America Hub,443.42
+AgriTech Solutions,Energy,Crude Oil,Packaging,South America Facility,56.56
+Battery Materials Corp,Metals,Titanium,Manufacturing,Southeast Asia Hub,270.04
+Natural Gas Traders,Energy,Petroleum Products,Cosmetics,Middle East Plant,58.49
+Agricultural Commodities,Energy,LNG,Renewable Energy,Caribbean Plant,53.18
+Coal Mining Corp,Metals,Scrap Metal,Chemicals,Europe Manufacturing,276.05
+Precious Metals Exchange,Plastics,ABS,Healthcare,Southeast Asia Hub,234.55
+Titanium Specialists,Minerals,Barite,Textiles,North Asia Operations,162.03
+Beverage Industry Supply,Metals,Zinc,Infrastructure,North America Plant,264.3
+Chemical Industries Ltd,Minerals,Fluorite,Food & Beverage,Southeast Asia Hub,164.47
+Glass Manufacturing Co,Plastics,Nylon,Food & Beverage,Eastern Europe Facility,240.68
+Glass Manufacturing Co,Energy,Gasoline,Textiles,South Asia Plant,54.67
+Beverage Industry Supply,Chemicals,Ethylene,Automotive,South America Facility,437.39
+Cosmetic Ingredients,Energy,Diesel,Healthcare,Western Europe Plant,56.55
+Iron Ore Suppliers,Textiles,Acrylic,Infrastructure,South Asia Plant,30.43
+Aerospace Alloys Corp,Minerals,Gypsum,Mining,Africa Operations,166.17
+Automotive Materials,Agriculture,Cocoa,Automotive,Oceania Facility,109.38
+Global Commodities Inc,Chemicals,Ethylene,Construction,Eastern Europe Facility,462.86
+Copper Traders International,Textiles,Acrylic,Oil & Gas,Central America Hub,26.51
+Precious Metals Exchange,Textiles,Polyester,Food & Beverage,North America Plant,28.7
+Industrial Supply Ltd,Chemicals,Sulfuric Acid,Chemicals,Africa Operations,445.49
+Beverage Industry Supply,Metals,Iron Ore,Energy,Oceania Facility,276.72
+Solar Panel Materials,Energy,LNG,Oil & Gas,Eastern Europe Facility,59.34
+Aerospace Alloys Corp,Agriculture,Rubber,Defense,Western Europe Plant,111.11
+Rubber and Tire Materials,Minerals,Barite,Agriculture,Oceania Facility,163.31
+Rare Earth Elements Co,Plastics,Polypropylene,Defense,South Asia Plant,236.56
+Plastic Polymers Co,Metals,Lead,Packaging,South Asia Plant,281.53
+Precious Metals Exchange,Minerals,Talc,Packaging,Middle East Plant,167.37
+Rare Earth Elements Co,Minerals,Fluorite,Energy,Oceania Facility,164.48
+Food Processing Materials,Plastics,Polycarbonate,Automotive,North Asia Operations,237.8
+Food Processing Materials,Agriculture,Cocoa,Automotive,Southeast Asia Hub,108.53
+Copper Traders International,Textiles,Linen,Electronics,Asia Pacific Hub,29.58
+Textile Raw Materials,Textiles,Silk,Electronics,Africa Operations,30.03
+Food Processing Materials,Plastics,Polyethylene,Pharmaceuticals,Central Asia Plant,239.92
+AgriTech Solutions,Metals,Zinc,Food & Beverage,Eastern Europe Facility,275.16
+Coal Mining Corp,Minerals,Fluorite,Telecommunications,Africa Operations,165.21
+Solar Panel Materials,Agriculture,Cocoa,Oil & Gas,Western Europe Plant,111.95
+Mining Operations LLC,Agriculture,Corn,Food & Beverage,Southeast Asia Hub,110.77
+Petroleum Products Ltd,Chemicals,Ethylene,Packaging,Central America Hub,447.88
+Pharmaceutical Raw Materials,Plastics,Polypropylene,Pharmaceuticals,Eastern Europe Facility,242.44
+Plastic Polymers Co,Textiles,Polyester,Manufacturing,Middle East Plant,29.71
+Mining Operations LLC,Energy,Crude Oil,Manufacturing,North America Plant,56.45
+Pharmaceutical Raw Materials,Metals,Iron Ore,Renewable Energy,South Asia Plant,272.16
+Energy Dynamics,Agriculture,Rice,Textiles,Asia Pacific Hub,111.38
+Battery Materials Corp,Agriculture,Rubber,Automotive,Central America Hub,112.88
+Nickel Alloys Corp,Electronics,Silicon,Pharmaceuticals,Central America Hub,481.61
+Rubber and Tire Materials,Chemicals,Ethylene,Infrastructure,South America Facility,436.06
+Steel Manufacturing Co,Chemicals,Urea,Energy,Africa Operations,454.25
+Titanium Specialists,Chemicals,Methanol,Healthcare,Southeast Asia Hub,452.7
+Premium Metals Corp,Chemicals,Sulfuric Acid,Cosmetics,Africa Operations,444.98
+Rubber and Tire Materials,Agriculture,Palm Oil,Manufacturing,Southeast Asia Hub,108.87
+Metro Trading Co,Energy,Diesel,Healthcare,Europe Manufacturing,62.01
+Pharmaceutical Raw Materials,Metals,Copper,Agriculture,Central Asia Plant,272.9
+Construction Materials Co,Textiles,Linen,Aerospace,Caribbean Plant,27.58
+Aerospace Alloys Corp,Agriculture,Sugar,Telecommunications,South Asia Plant,109.79
+Aerospace Alloys Corp,Agriculture,Wheat,Aerospace,Central Asia Plant,110.26
+Ceramic Materials Ltd,Metals,Titanium,Automotive,South America Facility,270.57
+Electronics Components Ltd,Agriculture,Wheat,Mining,North America Plant,110.88
+Construction Materials Co,Metals,Aluminum,Automotive,Middle East Plant,272.36
+Steel Manufacturing Co,Metals,Tin,Aerospace,Africa Operations,271.58
+Beverage Industry Supply,Agriculture,Cocoa,Pharmaceuticals,Africa Operations,107.54
+Ceramic Materials Ltd,Chemicals,Ammonia,Healthcare,South America Facility,441.55
+Premium Metals Corp,Energy,Crude Oil,Manufacturing,North America Plant,56.42
+Premium Metals Corp,Plastics,PVC,Telecommunications,Asia Pacific Hub,244.18
+Beverage Industry Supply,Metals,Steel,Textiles,Caribbean Plant,275.17
+Electronics Components Ltd,Minerals,Feldspar,Chemicals,South America Facility,164.63
+AgriTech Solutions,Metals,Aluminum,Mining,Eastern Europe Facility,275.55
+Iron Ore Suppliers,Minerals,Fluorite,Oil & Gas,South America Facility,168.64
+Coal Mining Corp,Energy,Gasoline,Pharmaceuticals,Caribbean Plant,54.21
+Chemical Industries Ltd,Textiles,Wool,Manufacturing,North America Plant,28.57
+Aerospace Alloys Corp,Metals,Aluminum,Pharmaceuticals,North America Plant,275.63
+Aluminum Corp,Textiles,Rayon,Electronics,Caribbean Plant,27.77
+Chemical Industries Ltd,Plastics,PET,Agriculture,North America Plant,238.39
+Ceramic Materials Ltd,Electronics,Silicon,Chemicals,Western Europe Plant,487.24
+Electronics Components Ltd,Plastics,Polyethylene,Telecommunications,Central Asia Plant,237.12
+Automotive Materials,Chemicals,PVC,Healthcare,Eastern Europe Facility,466.33
+Natural Gas Traders,Metals,Zinc,Energy,North Asia Operations,275.53
+Electronics Components Ltd,Plastics,Polycarbonate,Manufacturing,Europe Manufacturing,238.4
+Rubber and Tire Materials,Plastics,PET,Automotive,Central Asia Plant,236.47
+Aerospace Alloys Corp,Chemicals,Ethylene,Telecommunications,Western Europe Plant,450.0
+Steel Manufacturing Co,Textiles,Rayon,Oil & Gas,North Asia Operations,29.85
+Battery Materials Corp,Agriculture,Palm Oil,Aerospace,Africa Operations,110.14
+Iron Ore Suppliers,Chemicals,Methanol,Infrastructure,Middle East Plant,443.73
+Metro Trading Co,Metals,Copper,Electronics,North America Plant,271.04
+Battery Materials Corp,Plastics,ABS,Healthcare,Central Asia Plant,237.11
+Cosmetic Ingredients,Energy,Crude Oil,Infrastructure,South Asia Plant,56.27
+Construction Materials Co,Metals,Scrap Metal,Agriculture,Oceania Facility,273.61
+Medical Grade Metals,Textiles,Linen,Healthcare,Middle East Plant,28.91
+Nickel Alloys Corp,Minerals,Gypsum,Healthcare,Asia Pacific Hub,169.94
+Pharmaceutical Raw Materials,Chemicals,Urea,Pharmaceuticals,Southeast Asia Hub,439.1
+Automotive Materials,Textiles,Polyester,Agriculture,Europe Manufacturing,28.24
+Glass Manufacturing Co,Metals,Iron Ore,Automotive,Middle East Plant,273.28
+Chemical Industries Ltd,Energy,Gasoline,Electronics,Africa Operations,56.19
+Battery Materials Corp,Energy,Coal,Chemicals,Western Europe Plant,55.4
+Agricultural Commodities,Textiles,Polyester,Food & Beverage,Asia Pacific Hub,28.68
+Rare Earth Elements Co,Textiles,Nylon,Oil & Gas,Middle East Plant,30.2
+AgriTech Solutions,Minerals,Talc,Agriculture,South Asia Plant,165.78
+Aluminum Corp,Plastics,Nylon,Agriculture,Central America Hub,240.3
+Steel Manufacturing Co,Chemicals,Propylene,Agriculture,Asia Pacific Hub,456.11
+Wood Products International,Agriculture,Coffee,Oil & Gas,Western Europe Plant,111.95
+Premium Metals Corp,Plastics,Nylon,Food & Beverage,Africa Operations,237.21
+Nickel Alloys Corp,Textiles,Rayon,Infrastructure,Western Europe Plant,29.31
+Wind Energy Components,Textiles,Polyester,Construction,Southeast Asia Hub,23.87
+Steel Manufacturing Co,Metals,Steel,Oil & Gas,Middle East Plant,273.75
+Chemical Industries Ltd,Textiles,Polyester,Automotive,South America Facility,28.19
+Battery Materials Corp,Energy,Petroleum Products,Cosmetics,Western Europe Plant,56.95
+Pharmaceutical Raw Materials,Metals,Tin,Chemicals,South America Facility,272.1
+Food Processing Materials,Plastics,Polyethylene,Construction,North Asia Operations,238.19
+Titanium Specialists,Energy,Crude Oil,Telecommunications,Southeast Asia Hub,54.77
+Copper Traders International,Metals,Iron Ore,Packaging,Eastern Europe Facility,280.29
+Automotive Materials,Agriculture,Cotton,Automotive,North Asia Operations,111.66
+Steel Manufacturing Co,Metals,Aluminum,Packaging,Oceania Facility,273.35
+Nickel Alloys Corp,Textiles,Cotton Fiber,Aerospace,North America Plant,29.05
+Solar Panel Materials,Energy,Petroleum Products,Packaging,North Asia Operations,57.3
+AgriTech Solutions,Minerals,Barite,Electronics,South America Facility,165.11
+Plastic Polymers Co,Energy,LNG,Defense,Europe Manufacturing,57.76
+Medical Grade Metals,Plastics,Polypropylene,Oil & Gas,Asia Pacific Hub,241.56
+Premium Metals Corp,Plastics,ABS,Healthcare,South America Facility,237.73
+Iron Ore Suppliers,Agriculture,Rubber,Packaging,Caribbean Plant,109.54
+Aerospace Alloys Corp,Textiles,Silk,Automotive,North America Plant,28.86
+Beverage Industry Supply,Plastics,Polypropylene,Manufacturing,Caribbean Plant,235.34
+Industrial Supply Ltd,Plastics,Polystyrene,Energy,Caribbean Plant,238.76
+Cosmetic Ingredients,Agriculture,Wheat,Automotive,Caribbean Plant,109.46
+Titanium Specialists,Energy,Petroleum Products,Telecommunications,North Asia Operations,56.25
+Precious Metals Exchange,Energy,Diesel,Infrastructure,Africa Operations,56.11
+Iron Ore Suppliers,Metals,Copper,Cosmetics,South America Facility,281.75
+Metro Trading Co,Chemicals,Propylene,Cosmetics,Central America Hub,438.93
+Aerospace Alloys Corp,Minerals,Feldspar,Pharmaceuticals,North America Plant,168.27
+Petroleum Products Ltd,Agriculture,Palm Oil,Mining,Middle East Plant,112.09
+Zinc and Lead Traders,Metals,Copper,Cosmetics,Central America Hub,276.78
+Pharmaceutical Raw Materials,Textiles,Silk,Automotive,Central Asia Plant,27.96
+Industrial Supply Ltd,Metals,Steel,Electronics,Southeast Asia Hub,269.19
+Titanium Specialists,Textiles,Silk,Construction,Middle East Plant,28.21
+Industrial Supply Ltd,Energy,Petroleum Products,Mining,Oceania Facility,55.86
+Energy Dynamics,Energy,Biofuels,Cosmetics,South Asia Plant,57.26
+Petroleum Products Ltd,Chemicals,PVC,Electronics,Europe Manufacturing,436.74
+Titanium Specialists,Textiles,Nylon,Packaging,Oceania Facility,28.24
+Natural Gas Traders,Energy,Diesel,Renewable Energy,Oceania Facility,56.87
+Petroleum Products Ltd,Energy,Coal,Electronics,North Asia Operations,57.46
+Nickel Alloys Corp,Agriculture,Coffee,Infrastructure,Europe Manufacturing,113.32
+Global Commodities Inc,Minerals,Gypsum,Telecommunications,North Asia Operations,167.24
+Automotive Materials,Textiles,Nylon,Renewable Energy,North Asia Operations,29.6
+Glass Manufacturing Co,Minerals,Silica,Mining,Central America Hub,166.92
+Battery Materials Corp,Metals,Iron Ore,Renewable Energy,Caribbean Plant,270.16
+Medical Grade Metals,Chemicals,Urea,Chemicals,Central America Hub,444.7
+Petroleum Products Ltd,Electronics,Gallium,Healthcare,South Asia Plant,482.66
+Premium Metals Corp,Metals,Tin,Renewable Energy,Caribbean Plant,269.4
+Paper and Pulp Industries,Energy,Coal,Pharmaceuticals,South Asia Plant,56.26
+Electronics Components Ltd,Textiles,Nylon,Packaging,Europe Manufacturing,30.01
+Agricultural Commodities,Agriculture,Palm Oil,Textiles,Eastern Europe Facility,110.8
+Global Commodities Inc,Agriculture,Rice,Renewable Energy,Central Asia Plant,110.69
+Industrial Supply Ltd,Energy,Biofuels,Oil & Gas,Southeast Asia Hub,55.84
+Ceramic Materials Ltd,Minerals,Silica,Cosmetics,North Asia Operations,166.75
+Textile Raw Materials,Energy,Crude Oil,Electronics,Europe Manufacturing,57.03
+Food Processing Materials,Minerals,Feldspar,Agriculture,North Asia Operations,165.0
+Steel Manufacturing Co,Metals,Copper,Chemicals,Asia Pacific Hub,274.05
+Electronics Components Ltd,Metals,Iron Ore,Construction,Southeast Asia Hub,268.16
+Zinc and Lead Traders,Energy,LNG,Telecommunications,South America Facility,56.36
+Rare Earth Elements Co,Plastics,Polypropylene,Mining,Africa Operations,235.66
+Food Processing Materials,Metals,Titanium,Telecommunications,Central Asia Plant,273.82
+Iron Ore Suppliers,Energy,Petroleum Products,Chemicals,Europe Manufacturing,56.13
+Steel Manufacturing Co,Plastics,PVC,Chemicals,Asia Pacific Hub,243.87
+AgriTech Solutions,Minerals,Limestone,Agriculture,South Asia Plant,165.78
+Natural Gas Traders,Energy,LNG,Food & Beverage,South America Facility,57.61
+Electronics Components Ltd,Chemicals,Ammonia,Manufacturing,North America Plant,437.47
+Metro Trading Co,Chemicals,Caustic Soda,Energy,Oceania Facility,436.76
+Aluminum Corp,Chemicals,Ammonia,Textiles,Caribbean Plant,437.88
+Glass Manufacturing Co,Minerals,Limestone,Energy,Europe Manufacturing,167.41
+Copper Traders International,Plastics,Polystyrene,Mining,Caribbean Plant,238.19
+Aluminum Corp,Metals,Copper,Electronics,Southeast Asia Hub,270.08
+Mining Operations LLC,Minerals,Limestone,Pharmaceuticals,North Asia Operations,166.67
+Metro Trading Co,Plastics,Nylon,Pharmaceuticals,Eastern Europe Facility,239.52
+Petroleum Products Ltd,Agriculture,Corn,Packaging,Central Asia Plant,111.54
+Electronics Components Ltd,Textiles,Acrylic,Aerospace,Eastern Europe Facility,29.99
+Zinc and Lead Traders,Metals,Nickel,Packaging,Central Asia Plant,274.57
+Titanium Specialists,Plastics,Polystyrene,Telecommunications,North Asia Operations,239.73
+Construction Materials Co,Chemicals,Urea,Textiles,Oceania Facility,446.19
+Natural Gas Traders,Plastics,PET,Cosmetics,Asia Pacific Hub,243.62
+Paper and Pulp Industries,Minerals,Kaolin,Energy,Europe Manufacturing,166.09
+Industrial Supply Ltd,Textiles,Linen,Agriculture,North Asia Operations,29.0
+Electronics Components Ltd,Textiles,Linen,Healthcare,South Asia Plant,27.92
+Ceramic Materials Ltd,Textiles,Linen,Packaging,Southeast Asia Hub,29.6
+Precious Metals Exchange,Plastics,Polypropylene,Textiles,Europe Manufacturing,237.8
+Iron Ore Suppliers,Agriculture,Coffee,Defense,Eastern Europe Facility,116.25
+Electronics Components Ltd,Textiles,Cotton Fiber,Agriculture,Africa Operations,28.32
+Ceramic Materials Ltd,Plastics,Nylon,Energy,Africa Operations,237.98
+Industrial Supply Ltd,Energy,Diesel,Manufacturing,Asia Pacific Hub,56.95
+Energy Dynamics,Plastics,PET,Chemicals,Central America Hub,240.36
+Coal Mining Corp,Minerals,Fluorite,Energy,South America Facility,165.37
+Rare Earth Elements Co,Chemicals,Urea,Healthcare,Eastern Europe Facility,505.44
+Glass Manufacturing Co,Energy,Biofuels,Food & Beverage,Eastern Europe Facility,57.63
+Aluminum Corp,Chemicals,Propylene,Infrastructure,South Asia Plant,440.89
+Chemical Industries Ltd,Chemicals,Propylene,Aerospace,Central America Hub,446.0
+Precious Metals Exchange,Plastics,Polypropylene,Manufacturing,Central America Hub,240.08
+Mining Operations LLC,Agriculture,Coffee,Electronics,Asia Pacific Hub,111.61
+Copper Traders International,Plastics,ABS,Aerospace,Central America Hub,241.67
+Coal Mining Corp,Metals,Copper,Food & Beverage,Middle East Plant,268.44
+Global Commodities Inc,Chemicals,Urea,Chemicals,South America Facility,452.59
+Coal Mining Corp,Energy,Diesel,Packaging,North Asia Operations,56.03
+Beverage Industry Supply,Metals,Copper,Telecommunications,Europe Manufacturing,277.76
+Construction Materials Co,Metals,Scrap Metal,Defense,North Asia Operations,273.61
+Aluminum Corp,Energy,LNG,Agriculture,South America Facility,57.47
+Rare Earth Elements Co,Metals,Tin,Food & Beverage,Middle East Plant,268.66
+Aluminum Corp,Minerals,Limestone,Cosmetics,Europe Manufacturing,166.74
+Medical Grade Metals,Metals,Titanium,Oil & Gas,Middle East Plant,276.49
+Global Commodities Inc,Chemicals,Caustic Soda,Agriculture,Africa Operations,447.34
+Petroleum Products Ltd,Metals,Scrap Metal,Electronics,North America Plant,274.43
+Chemical Industries Ltd,Plastics,PVC,Infrastructure,Oceania Facility,236.5
+Zinc and Lead Traders,Agriculture,Corn,Aerospace,North Asia Operations,110.08
+Natural Gas Traders,Chemicals,Ammonia,Mining,Europe Manufacturing,443.05
+AgriTech Solutions,Minerals,Silica,Energy,Southeast Asia Hub,164.92
+Battery Materials Corp,Energy,Natural Gas,Electronics,North America Plant,54.82
+Plastic Polymers Co,Energy,Crude Oil,Construction,Southeast Asia Hub,51.77
+Copper Traders International,Plastics,PVC,Electronics,North America Plant,242.07
+Food Processing Materials,Minerals,Talc,Oil & Gas,Southeast Asia Hub,164.25
+Steel Manufacturing Co,Energy,Crude Oil,Packaging,South America Facility,56.59
+Chemical Industries Ltd,Energy,Gasoline,Agriculture,Caribbean Plant,54.19
+Chemical Industries Ltd,Minerals,Kaolin,Infrastructure,Central America Hub,167.61
+Iron Ore Suppliers,Metals,Titanium,Renewable Energy,South America Facility,276.51
+Automotive Materials,Agriculture,Sugar,Cosmetics,North America Plant,112.38
+Coal Mining Corp,Plastics,Polystyrene,Renewable Energy,Central Asia Plant,235.06
+AgriTech Solutions,Energy,Diesel,Manufacturing,Central Asia Plant,56.11
+Solar Panel Materials,Agriculture,Rice,Pharmaceuticals,Africa Operations,106.35
+Glass Manufacturing Co,Agriculture,Wheat,Oil & Gas,South America Facility,111.78
+Zinc and Lead Traders,Electronics,Silicon,Automotive,Europe Manufacturing,490.15
+Food Processing Materials,Energy,Gasoline,Chemicals,Africa Operations,55.89
+Zinc and Lead Traders,Chemicals,Caustic Soda,Defense,Central Asia Plant,456.09
+Zinc and Lead Traders,Minerals,Barite,Pharmaceuticals,North Asia Operations,164.82
+Industrial Supply Ltd,Chemicals,PVC,Healthcare,Oceania Facility,447.08
+Wood Products International,Electronics,Germanium,Electronics,Caribbean Plant,509.58
+Automotive Materials,Textiles,Rayon,Cosmetics,Central America Hub,30.64
+Premium Metals Corp,Plastics,Polystyrene,Automotive,Central America Hub,239.39
+Paper and Pulp Industries,Agriculture,Cocoa,Defense,Eastern Europe Facility,114.37
+Nickel Alloys Corp,Chemicals,Propylene,Electronics,Western Europe Plant,411.9
+Nickel Alloys Corp,Energy,Coal,Automotive,Southeast Asia Hub,55.79
+Plastic Polymers Co,Energy,Coal,Oil & Gas,Eastern Europe Facility,59.03
+Agricultural Commodities,Plastics,Polycarbonate,Oil & Gas,Europe Manufacturing,235.95
+Electronics Components Ltd,Energy,Coal,Construction,South Asia Plant,56.02
+Ceramic Materials Ltd,Textiles,Acrylic,Agriculture,South America Facility,28.88
+Ceramic Materials Ltd,Agriculture,Corn,Textiles,Western Europe Plant,110.37
+Pharmaceutical Raw Materials,Minerals,Talc,Renewable Energy,South America Facility,165.15
+Solar Panel Materials,Minerals,Talc,Electronics,Europe Manufacturing,165.89
+Solar Panel Materials,Metals,Steel,Cosmetics,South Asia Plant,269.79
+Natural Gas Traders,Minerals,Feldspar,Manufacturing,North America Plant,166.01
+Battery Materials Corp,Metals,Copper,Mining,Central America Hub,274.77
+Rubber and Tire Materials,Plastics,Polyethylene,Agriculture,Asia Pacific Hub,238.64
+Metro Trading Co,Textiles,Cotton Fiber,Infrastructure,South Asia Plant,27.55
+Chemical Industries Ltd,Energy,Crude Oil,Healthcare,South Asia Plant,55.65
+Industrial Supply Ltd,Textiles,Acrylic,Pharmaceuticals,Southeast Asia Hub,28.92
+Titanium Specialists,Textiles,Acrylic,Defense,Western Europe Plant,28.46
+Energy Dynamics,Textiles,Acrylic,Infrastructure,Europe Manufacturing,30.72
+Construction Materials Co,Metals,Iron Ore,Mining,Oceania Facility,272.46
+Beverage Industry Supply,Agriculture,Rice,Infrastructure,South America Facility,109.63
+Paper and Pulp Industries,Minerals,Limestone,Construction,Oceania Facility,164.95
+Solar Panel Materials,Minerals,Fluorite,Food & Beverage,Central America Hub,167.18
+Medical Grade Metals,Metals,Steel,Aerospace,North Asia Operations,272.95
+Titanium Specialists,Minerals,Gypsum,Chemicals,South Asia Plant,165.44
+Industrial Supply Ltd,Plastics,Polystyrene,Manufacturing,Eastern Europe Facility,239.2
+Petroleum Products Ltd,Chemicals,Propylene,Infrastructure,South Asia Plant,437.83
+Agricultural Commodities,Metals,Iron Ore,Chemicals,Oceania Facility,271.36
+Coal Mining Corp,Chemicals,Methanol,Construction,North Asia Operations,438.19
+Copper Traders International,Plastics,ABS,Chemicals,Europe Manufacturing,239.08
+Aluminum Corp,Minerals,Barite,Packaging,North America Plant,164.1
+Coal Mining Corp,Minerals,Fluorite,Cosmetics,South Asia Plant,162.16
+Copper Traders International,Metals,Iron Ore,Agriculture,Oceania Facility,275.28
+Glass Manufacturing Co,Minerals,Barite,Cosmetics,North Asia Operations,164.41
+Titanium Specialists,Energy,Biofuels,Manufacturing,Eastern Europe Facility,57.16
+Construction Materials Co,Agriculture,Rubber,Electronics,North America Plant,111.05
+Chemical Industries Ltd,Plastics,Polycarbonate,Oil & Gas,Western Europe Plant,238.48
+Energy Dynamics,Minerals,Feldspar,Construction,Europe Manufacturing,163.65
+Ceramic Materials Ltd,Chemicals,Propylene,Food & Beverage,South America Facility,453.2
+Medical Grade Metals,Chemicals,PVC,Chemicals,Western Europe Plant,439.24
+Food Processing Materials,Chemicals,PVC,Textiles,Central Asia Plant,432.77
+Precious Metals Exchange,Energy,Biofuels,Electronics,North America Plant,56.04
+Ceramic Materials Ltd,Minerals,Feldspar,Energy,Caribbean Plant,165.75
+Premium Metals Corp,Plastics,PVC,Oil & Gas,Eastern Europe Facility,245.93
+Glass Manufacturing Co,Plastics,Polycarbonate,Mining,North America Plant,240.0
+AgriTech Solutions,Agriculture,Coffee,Electronics,North America Plant,111.45
+Mining Operations LLC,Agriculture,Rubber,Infrastructure,Europe Manufacturing,112.56
+Petroleum Products Ltd,Chemicals,Sulfuric Acid,Food & Beverage,Middle East Plant,449.8
+Rubber and Tire Materials,Plastics,Polypropylene,Healthcare,Central America Hub,235.97
+Chemical Industries Ltd,Agriculture,Sugar,Healthcare,Asia Pacific Hub,112.36
+Paper and Pulp Industries,Minerals,Gypsum,Chemicals,Europe Manufacturing,165.28
+Industrial Supply Ltd,Electronics,Rare Earth Elements,Automotive,Central Asia Plant,475.17
+Mining Operations LLC,Metals,Zinc,Construction,Eastern Europe Facility,278.06
+Agricultural Commodities,Agriculture,Palm Oil,Oil & Gas,Oceania Facility,109.67
+Aerospace Alloys Corp,Textiles,Cotton Fiber,Automotive,Eastern Europe Facility,28.85
+Aerospace Alloys Corp,Energy,Biofuels,Textiles,Central America Hub,58.36
+Premium Metals Corp,Chemicals,Propylene,Healthcare,North Asia Operations,457.36
+Petroleum Products Ltd,Minerals,Barite,Textiles,Eastern Europe Facility,165.74
+Petroleum Products Ltd,Minerals,Limestone,Aerospace,Southeast Asia Hub,165.32
+Iron Ore Suppliers,Minerals,Barite,Packaging,Central Asia Plant,170.8
+Energy Dynamics,Agriculture,Wheat,Healthcare,Africa Operations,111.12
+Chemical Industries Ltd,Agriculture,Rubber,Infrastructure,Central Asia Plant,111.71
+Coal Mining Corp,Plastics,PET,Construction,Eastern Europe Facility,238.98
+Automotive Materials,Metals,Steel,Aerospace,Southeast Asia Hub,270.06
+Mining Operations LLC,Textiles,Polyester,Textiles,Africa Operations,27.62
+Solar Panel Materials,Minerals,Feldspar,Automotive,South America Facility,164.17
+Energy Dynamics,Minerals,Feldspar,Oil & Gas,Central America Hub,164.12
+Petroleum Products Ltd,Textiles,Linen,Packaging,Asia Pacific Hub,30.85
+Petroleum Products Ltd,Agriculture,Cocoa,Pharmaceuticals,Western Europe Plant,111.6
+Electronics Components Ltd,Chemicals,Caustic Soda,Aerospace,Caribbean Plant,445.48
+Plastic Polymers Co,Agriculture,Palm Oil,Cosmetics,Middle East Plant,111.74
+Paper and Pulp Industries,Minerals,Talc,Manufacturing,Middle East Plant,167.07
+Industrial Supply Ltd,Metals,Copper,Automotive,South America Facility,269.4
+Wood Products International,Energy,LNG,Renewable Energy,Middle East Plant,57.03
+Metro Trading Co,Plastics,Polycarbonate,Pharmaceuticals,South Asia Plant,239.07
+Iron Ore Suppliers,Metals,Scrap Metal,Aerospace,South America Facility,278.55
+Aerospace Alloys Corp,Textiles,Cotton Fiber,Energy,Central America Hub,30.8
+Coal Mining Corp,Minerals,Silica,Oil & Gas,Southeast Asia Hub,161.22
+Cosmetic Ingredients,Energy,Natural Gas,Defense,North Asia Operations,57.57
+Battery Materials Corp,Minerals,Kaolin,Infrastructure,Europe Manufacturing,166.56
+Pharmaceutical Raw Materials,Textiles,Linen,Agriculture,Asia Pacific Hub,27.44
+Medical Grade Metals,Energy,Biofuels,Pharmaceuticals,Western Europe Plant,55.96
+Rare Earth Elements Co,Agriculture,Coffee,Infrastructure,Western Europe Plant,111.1
+Petroleum Products Ltd,Textiles,Silk,Electronics,Southeast Asia Hub,28.54
+Paper and Pulp Industries,Minerals,Feldspar,Mining,Eastern Europe Facility,167.15
+Agricultural Commodities,Chemicals,Sulfuric Acid,Automotive,Central Asia Plant,438.88
+Coal Mining Corp,Agriculture,Rubber,Automotive,Europe Manufacturing,110.82
+Natural Gas Traders,Energy,Petroleum Products,Chemicals,Middle East Plant,57.21
+Cosmetic Ingredients,Metals,Titanium,Construction,North Asia Operations,273.33
+Energy Dynamics,Minerals,Talc,Mining,Caribbean Plant,167.78
+Natural Gas Traders,Metals,Copper,Telecommunications,Asia Pacific Hub,276.31
+Pharmaceutical Raw Materials,Energy,Coal,Textiles,Caribbean Plant,54.09
+Natural Gas Traders,Minerals,Barite,Aerospace,Caribbean Plant,163.43
+Wood Products International,Minerals,Fluorite,Defense,Central America Hub,167.08
+Metro Trading Co,Minerals,Fluorite,Telecommunications,Central America Hub,165.4
+Paper and Pulp Industries,Agriculture,Wheat,Mining,Central America Hub,113.37
+Solar Panel Materials,Chemicals,PVC,Manufacturing,Middle East Plant,436.88
+Textile Raw Materials,Minerals,Limestone,Agriculture,Caribbean Plant,164.32
+Ceramic Materials Ltd,Energy,Coal,Packaging,Central Asia Plant,56.4
+Cosmetic Ingredients,Textiles,Linen,Automotive,North Asia Operations,28.84
+Plastic Polymers Co,Agriculture,Cocoa,Energy,Europe Manufacturing,112.16
+Ceramic Materials Ltd,Agriculture,Rice,Oil & Gas,South Asia Plant,111.7
+Metro Trading Co,Textiles,Silk,Construction,South America Facility,26.47
+Coal Mining Corp,Metals,Copper,Agriculture,Eastern Europe Facility,276.56
+Nickel Alloys Corp,Energy,LNG,Oil & Gas,Caribbean Plant,57.62
+Solar Panel Materials,Textiles,Nylon,Electronics,Southeast Asia Hub,26.9
+Nickel Alloys Corp,Electronics,Indium,Renewable Energy,Western Europe Plant,506.89
+AgriTech Solutions,Plastics,Polystyrene,Oil & Gas,Caribbean Plant,238.02
+Zinc and Lead Traders,Plastics,Nylon,Agriculture,Southeast Asia Hub,232.78
+Industrial Supply Ltd,Minerals,Talc,Textiles,Middle East Plant,165.79
+Pharmaceutical Raw Materials,Agriculture,Corn,Infrastructure,North Asia Operations,111.78
+Precious Metals Exchange,Minerals,Talc,Telecommunications,North America Plant,166.85
+Glass Manufacturing Co,Metals,Tin,Oil & Gas,Central America Hub,271.88
+Wood Products International,Electronics,Rare Earth Elements,Renewable Energy,Asia Pacific Hub,510.09
+Steel Manufacturing Co,Minerals,Gypsum,Agriculture,Central America Hub,166.93
+Coal Mining Corp,Chemicals,Methanol,Electronics,Eastern Europe Facility,458.25
+Mining Operations LLC,Minerals,Limestone,Construction,Western Europe Plant,165.92
+Chemical Industries Ltd,Minerals,Feldspar,Oil & Gas,South Asia Plant,165.82
+Plastic Polymers Co,Electronics,Lithium,Chemicals,Asia Pacific Hub,492.64
+Glass Manufacturing Co,Textiles,Acrylic,Manufacturing,North Asia Operations,29.65
+Wood Products International,Minerals,Talc,Healthcare,Central Asia Plant,165.07
+Textile Raw Materials,Chemicals,Sulfuric Acid,Renewable Energy,South Asia Plant,453.01
+Automotive Materials,Energy,Biofuels,Oil & Gas,Africa Operations,57.19
+Industrial Supply Ltd,Electronics,Cobalt,Oil & Gas,Eastern Europe Facility,481.24
+Rubber and Tire Materials,Textiles,Polyester,Packaging,Central Asia Plant,28.1
+Global Commodities Inc,Metals,Lead,Textiles,Africa Operations,272.78
+Electronics Components Ltd,Energy,Biofuels,Mining,Europe Manufacturing,57.31
+Natural Gas Traders,Chemicals,Caustic Soda,Pharmaceuticals,Africa Operations,456.38
+Wood Products International,Plastics,PVC,Cosmetics,Central Asia Plant,240.09
+Wood Products International,Metals,Tin,Oil & Gas,South Asia Plant,273.21
+Beverage Industry Supply,Chemicals,Propylene,Packaging,South Asia Plant,451.0
+Cosmetic Ingredients,Textiles,Rayon,Oil & Gas,Western Europe Plant,29.34
+Nickel Alloys Corp,Minerals,Limestone,Automotive,Central America Hub,168.23
+Titanium Specialists,Metals,Tin,Telecommunications,Eastern Europe Facility,276.65
+Rubber and Tire Materials,Metals,Aluminum,Automotive,North Asia Operations,273.28
+Global Commodities Inc,Textiles,Silk,Oil & Gas,Western Europe Plant,29.06
+Aerospace Alloys Corp,Plastics,PET,Textiles,Western Europe Plant,237.88
+Steel Manufacturing Co,Minerals,Kaolin,Food & Beverage,North Asia Operations,166.48
+Precious Metals Exchange,Chemicals,Ammonia,Food & Beverage,South America Facility,443.62
+Energy Dynamics,Chemicals,PVC,Infrastructure,Eastern Europe Facility,447.57
+Battery Materials Corp,Textiles,Silk,Electronics,Central Asia Plant,27.41
+Battery Materials Corp,Minerals,Fluorite,Defense,Oceania Facility,165.25
+Steel Manufacturing Co,Electronics,Germanium,Healthcare,North Asia Operations,501.35
+Titanium Specialists,Plastics,Polypropylene,Chemicals,Central Asia Plant,238.47
+Industrial Supply Ltd,Metals,Aluminum,Food & Beverage,North Asia Operations,269.22
+Aluminum Corp,Energy,LNG,Oil & Gas,North America Plant,58.77
+Battery Materials Corp,Textiles,Cotton Fiber,Aerospace,Africa Operations,28.75
+Textile Raw Materials,Agriculture,Soybeans,Defense,South America Facility,112.14
+Wood Products International,Energy,Biofuels,Automotive,North Asia Operations,56.71
+AgriTech Solutions,Minerals,Limestone,Electronics,South Asia Plant,165.94
+Mining Operations LLC,Plastics,Polypropylene,Cosmetics,North Asia Operations,242.08
+Pharmaceutical Raw Materials,Energy,LNG,Electronics,Western Europe Plant,55.97
+Wood Products International,Agriculture,Sugar,Aerospace,North Asia Operations,111.16
+Wood Products International,Metals,Tin,Agriculture,Middle East Plant,275.37
+Metro Trading Co,Agriculture,Rubber,Electronics,South America Facility,109.55
+Rubber and Tire Materials,Plastics,PET,Aerospace,Africa Operations,236.34
+Battery Materials Corp,Energy,Natural Gas,Infrastructure,Central America Hub,58.11
+Mining Operations LLC,Agriculture,Palm Oil,Pharmaceuticals,Middle East Plant,111.73
+Aerospace Alloys Corp,Minerals,Gypsum,Mining,Asia Pacific Hub,168.1
+Copper Traders International,Minerals,Fluorite,Renewable Energy,Western Europe Plant,166.17
+Rare Earth Elements Co,Chemicals,Sulfuric Acid,Oil & Gas,Central America Hub,449.07
+Coal Mining Corp,Metals,Aluminum,Mining,North Asia Operations,271.48
+Natural Gas Traders,Agriculture,Sugar,Energy,North America Plant,112.33
+Aluminum Corp,Energy,Diesel,Energy,Africa Operations,56.46
+Titanium Specialists,Energy,Natural Gas,Healthcare,Southeast Asia Hub,56.33
+Coal Mining Corp,Plastics,Nylon,Manufacturing,North Asia Operations,237.57
+Industrial Supply Ltd,Plastics,Polyethylene,Defense,Africa Operations,238.9
+Metro Trading Co,Metals,Lead,Chemicals,South Asia Plant,275.06
+Aluminum Corp,Metals,Steel,Construction,South Asia Plant,263.96
+Steel Manufacturing Co,Textiles,Polyester,Energy,North Asia Operations,29.75
+Beverage Industry Supply,Agriculture,Rubber,Renewable Energy,Eastern Europe Facility,110.91
+Titanium Specialists,Metals,Iron Ore,Automotive,Caribbean Plant,267.69
+Beverage Industry Supply,Chemicals,Ethylene,Renewable Energy,Central America Hub,423.46
+Precious Metals Exchange,Textiles,Polyester,Oil & Gas,Eastern Europe Facility,30.16
+Cosmetic Ingredients,Chemicals,Propylene,Telecommunications,Central Asia Plant,444.36
+Paper and Pulp Industries,Chemicals,Propylene,Renewable Energy,North Asia Operations,447.86
+Zinc and Lead Traders,Chemicals,Urea,Oil & Gas,Middle East Plant,502.67
+AgriTech Solutions,Chemicals,Ethylene,Food & Beverage,Southeast Asia Hub,445.68
+Zinc and Lead Traders,Minerals,Barite,Food & Beverage,North Asia Operations,163.45
+Industrial Supply Ltd,Metals,Scrap Metal,Agriculture,Africa Operations,271.1
+Iron Ore Suppliers,Textiles,Acrylic,Oil & Gas,Asia Pacific Hub,32.72
+Premium Metals Corp,Plastics,PVC,Infrastructure,Africa Operations,235.35
+Wood Products International,Minerals,Gypsum,Energy,South Asia Plant,166.42
+AgriTech Solutions,Agriculture,Cotton,Renewable Energy,North Asia Operations,111.35
+Electronics Components Ltd,Electronics,Germanium,Food & Beverage,Caribbean Plant,503.93
+Steel Manufacturing Co,Plastics,PVC,Electronics,Middle East Plant,242.28
+Cosmetic Ingredients,Textiles,Cotton Fiber,Renewable Energy,Africa Operations,28.93
+Precious Metals Exchange,Plastics,Polycarbonate,Automotive,North Asia Operations,238.37
+AgriTech Solutions,Plastics,Polyethylene,Electronics,Oceania Facility,238.29
+Precious Metals Exchange,Energy,Gasoline,Energy,North Asia Operations,57.7
+Rubber and Tire Materials,Textiles,Nylon,Renewable Energy,Central Asia Plant,27.66
+Plastic Polymers Co,Textiles,Nylon,Textiles,Africa Operations,27.9
+Energy Dynamics,Agriculture,Wheat,Cosmetics,North America Plant,112.51
+Ceramic Materials Ltd,Electronics,Silicon,Chemicals,North America Plant,483.74
+Construction Materials Co,Energy,Petroleum Products,Pharmaceuticals,North Asia Operations,56.65
+Rare Earth Elements Co,Plastics,PVC,Construction,Africa Operations,238.24
+Energy Dynamics,Plastics,PET,Cosmetics,Oceania Facility,239.32
+AgriTech Solutions,Agriculture,Corn,Telecommunications,North America Plant,110.72
+Food Processing Materials,Metals,Steel,Textiles,South Asia Plant,273.34
+Industrial Supply Ltd,Metals,Nickel,Chemicals,Caribbean Plant,281.25
+Battery Materials Corp,Agriculture,Sugar,Textiles,Central America Hub,112.35
+Copper Traders International,Plastics,ABS,Automotive,Western Europe Plant,238.85
+Glass Manufacturing Co,Electronics,Silicon,Cosmetics,North Asia Operations,487.25
+Titanium Specialists,Chemicals,PVC,Textiles,Western Europe Plant,462.42
+Construction Materials Co,Minerals,Limestone,Defense,Caribbean Plant,164.69
+Glass Manufacturing Co,Chemicals,Urea,Manufacturing,Western Europe Plant,445.38
+Plastic Polymers Co,Minerals,Silica,Infrastructure,Central Asia Plant,166.47
+Paper and Pulp Industries,Metals,Zinc,Aerospace,Oceania Facility,274.33
+Global Commodities Inc,Energy,Gasoline,Renewable Energy,Western Europe Plant,57.01
+Textile Raw Materials,Plastics,Nylon,Food & Beverage,Oceania Facility,240.64
+Copper Traders International,Energy,Petroleum Products,Renewable Energy,Western Europe Plant,56.98
+Automotive Materials,Energy,Gasoline,Mining,South Asia Plant,56.59
+Coal Mining Corp,Plastics,ABS,Infrastructure,Eastern Europe Facility,238.98
+Glass Manufacturing Co,Chemicals,Urea,Mining,Western Europe Plant,451.15
+Wind Energy Components,Plastics,Polypropylene,Telecommunications,Oceania Facility,239.54
+Wind Energy Components,Chemicals,Ethylene,Infrastructure,Eastern Europe Facility,455.78
+Titanium Specialists,Chemicals,Caustic Soda,Food & Beverage,Central America Hub,474.34
+Mining Operations LLC,Minerals,Gypsum,Pharmaceuticals,Western Europe Plant,166.54
+Industrial Supply Ltd,Agriculture,Coffee,Defense,Eastern Europe Facility,113.75
+Nickel Alloys Corp,Electronics,Silicon,Electronics,Eastern Europe Facility,477.28
+Aerospace Alloys Corp,Agriculture,Cotton,Textiles,Central Asia Plant,109.58
+Metro Trading Co,Plastics,Polystyrene,Healthcare,Middle East Plant,244.63
+Iron Ore Suppliers,Metals,Titanium,Aerospace,Middle East Plant,280.39
+Construction Materials Co,Plastics,Polyethylene,Chemicals,Eastern Europe Facility,238.82
+Textile Raw Materials,Metals,Iron Ore,Healthcare,Central Asia Plant,273.73
+Plastic Polymers Co,Agriculture,Wheat,Construction,North America Plant,110.56
+Construction Materials Co,Chemicals,Propylene,Manufacturing,North America Plant,446.17
+Titanium Specialists,Agriculture,Cocoa,Agriculture,Southeast Asia Hub,107.52
+Rubber and Tire Materials,Agriculture,Sugar,Construction,Caribbean Plant,109.26
+Chemical Industries Ltd,Metals,Tin,Automotive,South America Facility,270.3
+Metro Trading Co,Textiles,Nylon,Food & Beverage,Eastern Europe Facility,27.57
+Chemical Industries Ltd,Agriculture,Rice,Infrastructure,Western Europe Plant,111.28
+Agricultural Commodities,Plastics,PVC,Pharmaceuticals,North Asia Operations,244.33
+Precious Metals Exchange,Plastics,Polyethylene,Cosmetics,Eastern Europe Facility,240.26
+Precious Metals Exchange,Agriculture,Wheat,Automotive,North Asia Operations,111.13
+Global Commodities Inc,Minerals,Silica,Chemicals,Oceania Facility,162.45
+Steel Manufacturing Co,Chemicals,Methanol,Pharmaceuticals,North Asia Operations,437.58
+Coal Mining Corp,Textiles,Wool,Oil & Gas,Caribbean Plant,25.75
+Coal Mining Corp,Energy,Petroleum Products,Defense,Eastern Europe Facility,60.73
+Aerospace Alloys Corp,Energy,LNG,Infrastructure,Central America Hub,58.63
+Paper and Pulp Industries,Agriculture,Sugar,Packaging,South Asia Plant,114.68
+Ceramic Materials Ltd,Electronics,Cobalt,Manufacturing,Southeast Asia Hub,486.47
+Medical Grade Metals,Textiles,Acrylic,Telecommunications,Middle East Plant,28.62
+Nickel Alloys Corp,Textiles,Cotton Fiber,Mining,Europe Manufacturing,30.15
+Battery Materials Corp,Agriculture,Cocoa,Chemicals,Southeast Asia Hub,108.48
+Precious Metals Exchange,Metals,Zinc,Manufacturing,Central America Hub,274.6
+Rare Earth Elements Co,Chemicals,PVC,Manufacturing,South Asia Plant,428.49
+Food Processing Materials,Textiles,Silk,Automotive,Oceania Facility,26.01
+Coal Mining Corp,Metals,Scrap Metal,Mining,Central America Hub,273.8
+Energy Dynamics,Minerals,Silica,Agriculture,Africa Operations,165.65
+Global Commodities Inc,Metals,Tin,Healthcare,Oceania Facility,273.1
+AgriTech Solutions,Metals,Titanium,Chemicals,South America Facility,272.1
+Aluminum Corp,Chemicals,Caustic Soda,Chemicals,Western Europe Plant,441.95
+Medical Grade Metals,Metals,Scrap Metal,Healthcare,Central Asia Plant,270.99
+Copper Traders International,Minerals,Barite,Telecommunications,Oceania Facility,164.18
+Copper Traders International,Electronics,Germanium,Electronics,North Asia Operations,498.22
+Textile Raw Materials,Energy,LNG,Construction,South America Facility,57.24
+Industrial Supply Ltd,Metals,Zinc,Mining,Europe Manufacturing,272.81
+Metro Trading Co,Energy,Gasoline,Electronics,Middle East Plant,54.85
+Wind Energy Components,Energy,Petroleum Products,Energy,South Asia Plant,57.59
+Aluminum Corp,Plastics,Nylon,Agriculture,Caribbean Plant,237.15
+Pharmaceutical Raw Materials,Chemicals,Urea,Agriculture,Western Europe Plant,444.88
