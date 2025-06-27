@@ -12,6 +12,46 @@ This project provides a modular, interpretable machine learning pipeline for gen
   - Post-processing with pricing rules
   - All code is modular and well-commented for easy understanding
 
+## Stepwise Project Guide
+
+1. **Feature Engineering**
+
+   - Clean and prepare the data.
+   - Add rolling statistics, target encoding, and a recency weight (recent transactions are weighted higher).
+   - Create interaction and segment features for richer modeling.
+
+2. **Product-Level Margin Binning**
+
+   - For each product, split historical margins into 5 bins (using quantiles or histogram binning).
+   - Assign each transaction a bin label based on its margin and product.
+
+3. **Margin Bin Classification**
+
+   - Train a CatBoost classifier to predict the margin bin for each transaction, using all engineered features.
+   - The classifier provides a price range (bin) for each quote.
+
+4. **Use Bin as Feature in Regression**
+
+   - Add the predicted bin (from the classifier) as a feature for the next step.
+
+5. **Margin Regression**
+
+   - Train a CatBoost regressor to predict the exact margin per unit, using all features (including the predicted bin).
+   - Hyperparameters for both classifier and regressor are tuned using GridSearchCV.
+
+6. **Apply Pricing Rules**
+
+   - If the predicted margin is lower than the historical minimum for a customer-product-plant, adjust it upward using a calibration factor.
+   - Add a flag and store the original prediction if an adjustment was made.
+
+7. **Pricelist Generation**
+   - Generate the final pricelist, including:
+     - Predicted margin
+     - Predicted price range (from classifier)
+     - Adjustment flag and original value if applicable
+     - All required combinations, even those only in outlier records
+   - Save the pricelist as `latest_pricelist.csv`.
+
 ## Project Structure
 
 ```
